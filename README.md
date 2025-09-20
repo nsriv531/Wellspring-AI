@@ -1,6 +1,6 @@
-# WellSightAi: Alberta Well Production Predictor
+# WellSpring Ai: Alberta Well Production Predictor
 
-WellSight is a full-stack data science project that combines public Alberta Energy Regulator (AER) datasets, machine learning, and a Next.js frontend to forecast oil well performance for major Canadian operators (Cenovus, CNRL, Suncor, Imperial, etc.).
+WellSpring is a full-stack data science project that combines public Alberta Energy Regulator (AER) datasets, machine learning, and a Next.js frontend to forecast oil well performance for major Canadian operators (Cenovus, CNRL, Suncor, Imperial, etc.).
 
 ## Project Overview
 
